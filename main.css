@@ -113,3 +113,21 @@ html {
 	padding-left: 2em;
 	padding-right: 2em;
 }
+
+.links {
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 2em;
+	padding: 0;
+	max-width: 100%;
+	text-align: center;
+}
+
+.fab {
+	color: #02b3e4;
+	border: solid;
+	border-radius: 20px;
+	width: 75px;
+	margin: 0.5em 0.5em 0.5em 0.5em;
+	font-size: 50px;
+}
