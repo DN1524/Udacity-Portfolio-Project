@@ -138,3 +138,10 @@ html {
 	margin: 0.5em 0.5em 0.5em 0.5em;
 	font-size: 50px;
 }
+
+.fab:hover {
+	transition: .2s;
+	color: #8459c1;
+	box-shadow: 3px 5px;
+
+}
