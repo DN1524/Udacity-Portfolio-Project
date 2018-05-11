@@ -27,17 +27,17 @@ html {
 	width: 100%;
 }
 
-.main-title {
+.title-container {
 	display: flex;
 	flex-direction: column;
 }
 
-.title, .self-title {
+.name, .self-title {
 	margin-right: 20px;
 	text-align: right;
 }
 
-.title {
+.name {
 	font-weight: normal;
 	font-size: 50px;
 	margin-bottom: 0;
