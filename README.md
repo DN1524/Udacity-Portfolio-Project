@@ -1,7 +1,7 @@
 # Udacity-Portfolio-Project
 This is a Udacity Portfolio Project
 
-https://dn1524.github.io/Udacity-Portfolio-Project/
+https://dn1524.github.io/Udacity-Portfolio-Project/ (Link to the Github page for this project.)
 
 # Functionality
 - Links under the images, under "Featured Work", leads to my CodePen with each project in it when clicked.
